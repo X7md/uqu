@@ -1,6 +1,6 @@
 # Google Cloud Shell
 
-Google Cloud Shell is a service from google give you online bash shell based on Debian.
+Google Cloud Shell is a *Free* service from google give you online bash shell based on Debian.
 
 Cloud Shell is interactive shell environment for Google Cloud that makes it easy for you to learn and experiment with Google Cloud and manage your projects and resources from your web browser.
 
