@@ -3,6 +3,7 @@
 # Google Cloud Shell
 
 Google Cloud Shell هي خدمة مجانية من قوقل تُتيح لك سطر أوامر Bash مبني على توزيعة Debian.
+
 Cloud Shell هي بيئة سطر أوامر تفاعلية من أجل Google Cloud تتيح لك تعلم وتجربة Google Cloud لإدارة مشاريعك والموارد عليه من خلال المتصفح.
 
 ## ماذا أحتاج لأجرب Google Cloud Shell؟
