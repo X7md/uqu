@@ -27,6 +27,6 @@ for exmaple:
 -  Introduction to Google Cloud Shell.
 -  How to use Google Cloud Shell through the browesr.
 -  Show some use cases and exmaples...
--  How to use Google Console App, for run Cloud Shell using mobile phone.
+-  How to use Google Cloud Console App, for run Cloud Shell using mobile phone.
 -  How to Run Google Cloud Shell in your terminal through SSH (Linux).
-- Q&A
+- Q&A.

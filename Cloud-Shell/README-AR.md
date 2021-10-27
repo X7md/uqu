@@ -1,4 +1,5 @@
 <div dir="rtl" lang="ar">
+
 # Google Cloud Shell
 
 Google Cloud Shell هي خدمة من قوقل تُتيح لك سطر أوامر Bash مبني على توزيعة Debian.
@@ -29,3 +30,4 @@ Cloud Shell هو بيئة سطر أوامر تفاعلية من أجل Google Cl
 -  بعض أساليب الإستخدام، والامثلة...
 -  شرح كيفية استخدام تطبيق Google Cloud Console, لتشغيل Cloud Shell من الجوال.
 -  كيف تستخدم وتربط Cloud shell مباشرة بسطر الأوامر خاصتك باستخدام SSH (Linux).
+- اسئلة وأجوبة.
